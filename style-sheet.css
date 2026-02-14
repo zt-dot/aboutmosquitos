@@ -1,0 +1,28 @@
+body {
+  color: black;
+  font-family: Rock Salt;
+  font-size: 20px;
+  background-color:deeppink;
+  color: aliceblue;
+}
+
+h1{
+  text-align: center
+}
+
+.pictures { 
+  // only some pictures, not the cc ones.
+  border-color: purple;
+  border-radius: 10px;
+  border-style: solid;
+  width: 400px;
+  
+}
+
+h6 {
+  margin:0; 
+}
+
+p{
+text-align: center
+}
